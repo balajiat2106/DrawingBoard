@@ -1,0 +1,6 @@
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\DrawingBoard.csprojResolveAssemblyReference.cache
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\DrawingBoard.exe.config
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\DrawingBoard.exe
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\DrawingBoard.pdb
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\DrawingBoard.exe
+C:\Users\bsp2002\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\DrawingBoard.pdb
